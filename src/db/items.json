@@ -1,0 +1,32 @@
+[
+    {
+      "src": "https://images.pexels.com/photos/841228/pexels-photo-841228.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "altText": "Type like you have a diploma in Steno",
+      "caption": "Keyboard"
+    },
+    {
+        "src": "https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "altText": "Its give you smooth experience...",
+        "caption": "Mouse"
+      },
+    {
+      "src": "https://images.pexels.com/photos/3497123/pexels-photo-3497123.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "altText": "You can't capture childhood but can memories... ",
+      "caption": "Cameras"
+    },
+    {
+      "src": "https://images.pexels.com/photos/1591/technology-music-sound-things.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "altText": "Listening music with high base...",
+      "caption": "Headphones"
+    },
+    {
+        "src": "https://images.pexels.com/photos/7412032/pexels-photo-7412032.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "altText": "Play High Graphics game, photoshop and show your skills ",
+        "caption": "laptops/Desktops"
+    },
+    {
+      "src": "https://images.pexels.com/photos/1682519/pexels-photo-1682519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "altText": "Resolution give you feels like you are present there..",
+      "caption": "Televisions"
+    }
+  ]

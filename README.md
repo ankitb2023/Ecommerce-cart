@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Install dependecies by running 
+`npm install`
+Bootstrap version should be 4.5.2
+you can use `npm install bootstrap@4.5.2`
+`npm install reactstrap react-router-dom`
 ## Available Scripts
 
 In the project directory, you can run:
@@ -26,6 +31,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1a",
+    "name": "Ducky One 2",
+    "price": 100,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://mechanicalkeyboards.com/shop/images/products/large_DKME1961ST-USPDZZT1_10.jpg",
+    "inStock": true,
+    "categoryId": "fgsa2142fa"
+  },
+  {
+    "id": "2a",
+    "name": "Varmilo Sakura",
+    "price": 140,
+    "currency": "USD",
+    "delivery": true,
+    "thumbnail": "https://mechanicalkeyboards.com/shop/images/products/large_2790_SakuraTKL_1.jpg",
+    "inStock": true,
+    "categoryId": "fgsa2142fa"
+  },
+  {
+    "id": "3a",
+    "name": "MK Disco",
+    "price": 80,
+    "currency": "USD",
+    "delivery": true,
+    "thumbnail": "https://mechanicalkeyboards.com/shop/images/products/large_2017_Disco_White_Caps_1.png",
+    "inStock": false,
+    "categoryId": "fgsa2142fa"
+  },
+  {
+    "id": "4b",
+    "name": "Razer Kraken",
+    "price": 60,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71BKQhFzDmL._AC_SY355_.jpg",
+    "inStock": false,
+    "categoryId": "xasgy42fa"
+  },
+  {
+    "id": "5b",
+    "name": "HyperX Cloud II",
+    "price": 115,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/719KtJ-RAFL._AC_SL1417_.jpg",
+    "inStock": true,
+    "categoryId": "xasgy42fa"
+  },
+  {
+    "id": "6b",
+    "name": "Sennheiser PC 3 Chat",
+    "price": 60,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61kIoNSe3VL._SL1500_.jpg",
+    "inStock": true,
+    "categoryId": "xasgy42fa"
+  },
+  {
+    "id": "7c",
+    "name": "Mi 4A Pro 108 cm (43 inch) Full HD LED Smart Android TV",
+    "price": 260,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://rukminim1.flixcart.com/image/612/612/kq6yefk0/television/d/a/j/l43m5-an-mi-original-imag4967gctacntj.jpeg?q=70",
+    "inStock": true,
+    "categoryId": "tel2021eab"
+  },
+  {
+    "id": "8c",
+    "name": "OnePlus Y Series 100 cm (40 inch) Full HD LED Smart",
+    "price": 262,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://rukminim1.flixcart.com/image/612/612/kph8h3k0/television/k/9/h/40y1-40fa1a00-oneplus-original-imag3p45tdgyvpqa.jpeg?q=70",
+    "inStock": false,
+    "categoryId": "tel2021eab"
+  },
+  {
+    "id": "9c",
+    "name": "LG 108 cm (43 inch) Full HD LED Smart TV 2020 Edition",
+    "price": 270,
+    "currency": "USD",
+    "delivery": true,
+    "thumbnail": "https://rukminim1.flixcart.com/image/612/612/ked56kw0/television/r/m/a/lg-43lm5650pta-43lm5650pta-original-imafvfqfxjwrz4ad.jpeg?q=70",
+    "inStock": true,
+    "categoryId": "tel2021eab"
+  },
+  {
+    "id": "10c",
+    "name": "realme 108 cm (43 inch) Ultra HD (4K) LED Smart",
+    "price": 262,
+    "currency": "USD",
+    "delivery": true,
+    "thumbnail": "https://rukminim1.flixcart.com/image/612/612/kosxzm80/television/a/7/8/rmv2004-realme-original-imag36hwea8zmnvy.jpeg?q=70",
+    "inStock": true,
+    "categoryId": "tel2021eab"
+  },
+  {
+    "id": "11c",
+    "name": "SAMSUNG 108 cm (43 inch) Full HD LED Smart TV",
+    "price": 274,
+    "currency": "USD",
+    "delivery":true,
+    "thumbnail": "https://rukminim1.flixcart.com/image/612/612/kfoapow0/television/v/h/k/samsung-ua43te50fakxxl-original-imafw2r7knjww635.jpeg?q=70",
+    "inStock": false,
+    "categoryId": "tel2021eab"
+  },
+  {
+    "id": "12c",
+    "name": "Vu Premium 108 cm (43 inch) Ultra HD (4K) LED Smart TV",
+    "price": 263,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://rukminim1.flixcart.com/image/612/612/k7dnonk0/television/x/z/a/vu-50pm-50pm-original-imafpmrtnctj6qgz.jpeg?q=70",
+    "inStock": true,
+    "categoryId": "tel2021eab"
+  },
+  {
+    "id": "10d",
+    "name": "ASUS Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) X509JB-EJ592T Laptop",
+    "price": 603,
+    "currency": "USD",
+    "delivery": true,
+    "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kao98cw0/computer/g/9/u/asus-na-laptop-original-imafs6v8wzctgeau.jpeg?q=70",
+    "inStock": true,
+    "categoryId": "lap2019py"
+  },
+  {
+    "id": "11d",
+    "name": "HP 14s Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14s- DQ2535TU Thin and Light Laptop",
+    "price": 630,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kbqu4cw0/computer/v/r/y/hp-original-imaftyzqzbyerzgt.jpeg?q=70",
+    "inStock": true,
+    "categoryId": "lap2019py"
+  },
+  {
+    "id": "12d",
+    "name": "Lenovo IdeaPad Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) 15 ITL 05 Thin and Light Laptop",
+    "price": 580,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://rukminim1.flixcart.com/image/312/312/klfhk7k0/computer/w/u/x/na-thin-and-light-laptop-lenovo-original-imagyk4hedcydqx5.jpeg?q=70",
+    "inStock": false,
+    "categoryId": "lap2019py"
+  },
+  {
+    "id": "13e",
+    "name": "Canon EOS 1500D 24.1 Digital SLR Camera (Black) with EF S18-55 is II Lens",
+    "price": 415,
+    "currency": "USD",
+    "delivery": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/914hFeTU2-L._AC_UL320_.jpg",
+    "inStock": true,
+    "categoryId": "cm50505a"
+  },
+  {
+    "id": "14e",
+    "name": "Sony Alpha ILCE 6000Y 24.3 MP Mirrorless Digital SLR Camera with 16-50 mm and 55-210 mm Zoom Lenses",
+    "price": 711,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://m.media-amazon.com/images/I/71BE+wLmJCL._AC_UL320_.jpg",
+    "inStock": false,
+    "categoryId": "cm50505a"
+  },
+  {
+    "id": "15e",
+    "name": "Nikon D5600 with AF-P 18-55 mm + AF-P 70-300 mm VR Kit",
+    "price": 685,
+    "currency": "USD",
+    "delivery": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/41ysoC0mdHL._AC_UL320_.jpg",
+    "inStock": true,
+    "categoryId": "cm50505a"
+  },
+  {
+    "id": "16f",
+    "name": "DELL MS 116 Wired Optical Mouse",
+    "price": 4,
+    "currency": "USD",
+    "delivery": true,
+    "thumbnail": "https://rukminim1.flixcart.com/image/612/612/k4a7c7k0/mouse/m/h/t/dell-ms116-wired-optical-mouse-3yrs-warranty-original-imafmktgxyt5ge9k.jpeg?q=70",
+    "inStock": true,
+    "categoryId": "ch22267fd2"
+  },
+  {
+    "id": "17f",
+    "name": "Lenovo Yoga Wireless Optical Mouse with Bluetooth",
+    "price": 6,
+    "currency": "USD",
+    "delivery": true,
+    "thumbnail": "https://rukminim1.flixcart.com/image/612/612/k7ksvww0/mouse/c/h/z/lenovo-yoga-original-imafprzhmbdgh2hy.jpeg?q=70",
+    "inStock": false,
+    "categoryId": "ch22267fd2"
+  },
+  {
+    "id": "18f",
+    "name": "HP X200 Wireless Laser Mouse",
+    "price": 7,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://rukminim1.flixcart.com/image/612/612/kcf4lu80/mouse/g/h/w/hp-x200-original-imaftjh2gh4hmcee.jpeg?q=70",
+    "inStock": false,
+    "categoryId": "ch22267fd2"
+  }
+]
